@@ -1,0 +1,14 @@
+.regist button{
+  background-color:#F9DB6D;
+  border: solid 1px black;
+  width: 200px;
+}
+
+.regist{
+    width: 100% !important;
+}
+
+.card{
+    border-radius: 1rem;
+    width: 85%;
+}

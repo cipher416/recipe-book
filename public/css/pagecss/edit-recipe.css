@@ -1,0 +1,25 @@
+.isi{
+    background-color: white;
+    width: 85%;
+    padding : 4% 12%;
+}
+
+input[type=text], input[type=number], input[type=file]{
+    background-color: #F5EBDD;
+    border: solid 1px black;
+}
+
+.language-select select{
+    background-color: #F5EBDD;
+    border: solid 1px black;
+}
+
+.add button{
+    background-color:#F9DB6D;
+    border: solid 1px black;
+    width: 200px;
+}
+
+.add{
+    width: 100%;
+}

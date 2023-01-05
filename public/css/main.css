@@ -1,0 +1,15 @@
+.bgnav{
+    background-color: #F9DB6D;
+}
+
+body{
+    background-color: #F8F3F3;
+}
+
+#navbarDropdown{
+    color: black;
+}
+
+.auth a{
+    color: black !important;
+}

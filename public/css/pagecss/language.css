@@ -1,0 +1,29 @@
+.detail a{
+    background-color: #F9DB6D;
+    color: black;
+    border: solid 1px black;
+}
+.card img{
+    width: 18rem;
+    height: 18rem;
+}
+.card{
+    height: 37rem;
+    width: 20rem;
+}
+.card-body{
+    height: 15rem;
+}
+.card-title{
+    height: 3rem;
+}
+.card-text{
+    height: 3rem;
+}
+.detail{
+    align-items: center;
+}
+.row{
+    width: 100%;
+    justify-content: center;
+}

@@ -1,0 +1,26 @@
+.body{
+    width: 85%;
+    border: solid black 1px;
+    border-radius: 1rem;
+    margin-bottom: 5% !important;
+}
+
+.divider{
+    width: 100px;
+}
+
+.add button{
+    background-color:#F9DB6D;
+    border: solid 1px black;
+    width: 200px;
+}
+
+.login a{
+    background-color:#F9DB6D;
+    border: solid 1px black;
+    width: 200px;
+}
+
+.price{
+    color: red;
+}
